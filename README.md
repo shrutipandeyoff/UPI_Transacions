@@ -45,7 +45,9 @@ Developed an interactive Power BI dashboard to analyze UPI transaction trends, u
 
 ## Dashboard Preview
 
-> Add screenshots of the dashboard pages and Model View here.
+![Chart](images/1_Charts.png)
+
+![matrix](images/2_matrix.png)
 
 ---
 
